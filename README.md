@@ -1,10 +1,3 @@
-Perfect 👍
-Below is your **enhanced README.md** with **professional, tasteful colorful icons (emojis)** and an **Author section** added — still clean, senior, and selection-round ready.
-
-You can **replace your existing README.md completely** with this.
-
----
-
 # 🚀 Playwright Web Data Scraper
 
 A clean, scalable, and configuration-driven **Playwright (Java)** framework for automated web data extraction.
