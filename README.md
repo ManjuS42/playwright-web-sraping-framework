@@ -186,7 +186,8 @@ This framework can be easily extended to:
 ## 👩‍💻 Author
 
 **Manju S**
-Senior Software Development Engineer in Test (SDET)
+
+| Senior Software Development Engineer in Test (SDET) |
 🔗 GitHub: https://github.com/ManjuS42
 
 ---
